@@ -11,7 +11,7 @@ Login to instance as a root user and install Java
 
  yum install java-1.8* -y 
 Download Artifactory packages onto /opt/
-For Latest version of Artifactory OSS download it from here
+For Latest version of Artifactory OSS [download it from here](https://jfrog.com/open-source/)
 For Older version of Artifactory OSS download it from here
 For Latest version of Artifactory Pro download it from here
 
@@ -36,5 +36,5 @@ Make sure You meet the Artifactory system requirements
 
 Integrate Artifactory with Jenkins [Click here](https://www.youtube.com/watch?v=BVxhLIfunmI)
 Integrate Artifactory with Maven Yet to release
-How to install Maven on EC2 instance Click here
-How to install Jenkins on EC2 instance Click here
+How to install Maven on EC2 instance [Click here]()
+How to install Jenkins on EC2 instance [Click here](https://www.youtube.com/watch?v=M32O4Yv0ANc)
