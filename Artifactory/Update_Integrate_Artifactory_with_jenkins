@@ -50,3 +50,4 @@ Login to Jenkins to integrate Artifactory with Jenkins
    - Deploy Artifacts to Artifactory : `<provide Artifactory server and repository details>`
 
 2. Execute job 
+
